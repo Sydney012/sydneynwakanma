@@ -1,0 +1,42 @@
+Your name and student id.
+      Sydney Nwakanma
+      921414907
+      
+The link to join your Discord Server
+
+https://discord.gg/cSnjuPf9p9
+      
+The link to your repl app
+
+    https://replit.com/join/ezhfnhkgdg-snwakanma
+    
+The commands the user needs to use so your bot can trigger the right output for your business requirements. Same as the ones you included in #commandschannel
+
+    /student-extracurricular-loans (e.g 2500)
+    /phd-acceptance (e.g 1 or 2 or 3)
+    /conference-faculty (e.g Mathemathics)
+    /student-scholarship-loans (e.g 1 or 0)
+    /non-alumni-guest-speaker (e.g 1 or 0)
+    /offcampus-parttime-job (e.g 0)
+    /guest-speaker (e.g 2021-09-01)
+    /student-group-college (e.g SFSU)
+    
+Your business requirements. Same as the ones you included in #business-requirementschannel
+
+    1)Find all the names of students that have an extracurricular and took out a certain amount in student loans. 
+ 
+   2) Find all the names of students that got accepted to their (blank) choice Phd programs if they were teaching assistants 
+
+   3) For each conference type, list the number of faculty members that attended and teach a certain subject
+
+   4) For each student loan type, find the total amount that was taken out by each student that recieved a scholarship. Order from lowest to highest 
+
+   5) For each activity type, find how many (choose activity) that had a guest speaker that wasn't an alumni. 
+
+   6) Find the number of students in each college that live off-campus and have a part-time job 
+
+   7) For each guest speaker, find the number of activities attended in a certain date. 
+
+   8) Find the average number of students in each student group from each college.
+
+All your code must also be within this directory, and it must be exactly the same code that you have in your repl app.
